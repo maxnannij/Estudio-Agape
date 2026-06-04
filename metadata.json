@@ -1,0 +1,6 @@
+{
+  "name": "Estudio Ágape",
+  "description": "Sitio web oficial del Estudio Ágape, asesoría contable e impositiva integral en Argentina para monotributistas, autónomos y PyMEs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
